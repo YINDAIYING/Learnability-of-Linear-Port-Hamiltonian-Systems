@@ -1,1 +1,1 @@
-# Learnability-of-Linear-Port-Hamiltonian-Systems
+# Learnability of Linear Port-Hamiltonian Systems
